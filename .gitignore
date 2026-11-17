@@ -1,1 +1,6 @@
 BAN-GIAO.md
+# Tài liệu ST (datasheet, reference manual): bản quyền ST, nặng, không đưa lên repo
+docs/
+*.pdf
+# Ảnh chụp thô: duyệt và nén rồi mới đưa vào notes/images/
+screenshots/
